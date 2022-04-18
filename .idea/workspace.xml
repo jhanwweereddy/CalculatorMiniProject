@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b9e508-7950-4d21-933c-8e0c4bf5b381" name="Changes" comment="added tests!">
-      <change afterPath="$PROJECT_DIR$/src/test/java/calculator/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculator/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <updated>1650128464287</updated>
       <workItem from="1650128468056" duration="2058000" />
       <workItem from="1650134909482" duration="8637000" />
-      <workItem from="1650193756447" duration="8843000" />
+      <workItem from="1650193756447" duration="10783000" />
     </task>
     <task id="LOCAL-00001" summary="added code">
       <created>1650135301514</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650269269248</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added tests!">
+      <created>1650270725154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650270725154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
